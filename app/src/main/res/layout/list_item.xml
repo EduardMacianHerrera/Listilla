@@ -10,7 +10,7 @@
         android:layout_width="0dp"
         android:layout_height="77dp"
         android:layout_weight="1"
-        tools:srcCompat="@tools:sample/avatars" />
+        tools:srcCompat="@drawable/bobobolechuga" />
 
     <TextView
         android:id="@+id/nom"
